@@ -1,2 +1,2 @@
 # portfolio-website
-A responsive login form using HTML, CSS and JavaScript with form validation.
+A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and experience
